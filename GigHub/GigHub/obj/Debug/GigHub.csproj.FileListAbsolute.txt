@@ -86,3 +86,4 @@ C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Mig
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addForeignKeyPropertiesToGig.resources
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addNameToApplicationUSer.resources
