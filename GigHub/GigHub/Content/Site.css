@@ -22,3 +22,87 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/* Bootstrap overrides*/
+.navbar-inverse {
+    background-color: #c30000;
+    border-color: #c30000;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffd800;
+}
+
+.navbar-inverse .navbar-toggle{
+
+    background-color: #a20101;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+ 
+    background-color: #a20101;
+}
+
+.dropdown-menu {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+
+}
+
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;
+}
+
+.navbar-brand{
+        font-weight: 700;
+}
+
+body{
+     font-size: 17px;
+}
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    font-size: 17px;
+    padding: 20px 15px;
+    border-radius: 9px;
+}
+
+.form-control:focus {
+    border-color: #6676e9;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.btn {
+    font-size: 17px;
+    padding: 7px 20px;
+    border-radius: 9px;
+}
+
