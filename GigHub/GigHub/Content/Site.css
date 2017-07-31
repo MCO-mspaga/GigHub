@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 90px;
     padding-bottom: 20px;
 }
 
@@ -34,28 +34,25 @@ span.field-validation-error {
     border-color: #c30000;
 }
 
-.navbar-inverse .navbar-nav > li > a {
-    color: #ffffff;
-}
+    .navbar-inverse .navbar-nav > li > a {
+        color: #ffffff;
+    }
 
-.navbar-inverse .navbar-brand {
-    color: #ffd800;
-}
+    .navbar-inverse .navbar-brand {
+        color: #ffd800;
+    }
 
-.navbar-inverse .navbar-toggle{
+    .navbar-inverse .navbar-toggle {
+        background-color: #a20101;
+    }
 
-    background-color: #a20101;
-}
-
-.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
- 
-    background-color: #a20101;
-}
+    .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+        background-color: #a20101;
+    }
 
 .dropdown-menu {
     box-shadow: none;
     -webkit-box-shadow: none;
-
 }
 
 .navbar-inverse .navbar-nav > .dropdown > a .caret {
@@ -63,12 +60,12 @@ span.field-validation-error {
     border-bottom-color: #ffffff;
 }
 
-.navbar-brand{
-        font-weight: 700;
+.navbar-brand {
+    font-weight: 700;
 }
 
-body{
-     font-size: 17px;
+body {
+    font-size: 17px;
 }
 
 
@@ -85,7 +82,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
 }
 
 
@@ -99,11 +96,11 @@ h6,
     border-radius: 9px;
 }
 
-.form-control:focus {
-    border-color: #6676e9;
-    box-shadow: none;
-    -webkit-box-shadow: none;
-}
+    .form-control:focus {
+        border-color: #6676e9;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
 
 .btn {
     font-size: 17px;
@@ -111,3 +108,50 @@ h6,
     border-radius: 9px;
 }
 
+
+/*page-level styles*/
+.gigs {
+    list-style: none;
+}
+
+    .gigs > li {
+        position: relative;
+        margin: 30px;
+    }
+
+        .gigs > li .date {
+            background: red;
+            color: white;
+            text-align: center;
+            width: 60px;
+            border-radius: 8px;
+        }
+
+            .gigs > li .date .month {
+                text-transform: uppercase;
+                font-size: 14px;
+                font-weight: bold;
+                padding: 2px 6px;
+            }
+
+            .gigs > li .date .day {
+                background: #f7f7f7;
+                color: #333;
+                font-size: 20px;
+                padding: 6px 12px;
+            }
+
+        .gigs > li .details {
+            position: absolute;
+            top: 0;
+            left: 70px;
+        }
+
+        .gigs > li .details .artist{
+             font-weight: bold;
+            display: block;
+        }
+
+        .gigs > li .details .genre{
+            font-size: 15px;
+        }
