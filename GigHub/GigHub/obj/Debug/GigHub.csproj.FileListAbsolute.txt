@@ -83,7 +83,13 @@ C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Mig
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
-C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addForeignKeyPropertiesToGig.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addNameToApplicationUSer.resources
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addattendance.resources
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Web.Http.dll
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Web.Http.xml
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
