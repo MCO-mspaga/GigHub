@@ -14,7 +14,7 @@ namespace GigHub.Models
         public DbSet<Attendance> Attendences { get; set; }
 
         public DbSet<Following> Followings { get; set; }
-
+        
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
