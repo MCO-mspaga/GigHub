@@ -83,7 +83,6 @@ C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\Microsoft.Owin.S
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.initialModel.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
@@ -95,3 +94,4 @@ C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csp
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.dll
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.pdb
 C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.Migrations.addFollowing.resources
+C:\IT DEVELOPMENT\Projects\FunProjects\GigHub\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
