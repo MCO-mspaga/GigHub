@@ -209,6 +209,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\Api\GigsController.cs" />
     <Compile Include="Controllers\ArtistsController.cs" />
     <Compile Include="Controllers\AttendancesController.cs" />
     <Compile Include="Controllers\FollowingsController.cs" />
@@ -252,6 +253,10 @@
     <Compile Include="Migrations\201707311327376_addFollowing.Designer.cs">
       <DependentUpon>201707311327376_addFollowing.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201708031132206_addIsCancelledToGIg.cs" />
+    <Compile Include="Migrations\201708031132206_addIsCancelledToGIg.Designer.cs">
+      <DependentUpon>201708031132206_addIsCancelledToGIg.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -285,6 +290,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\bootbox.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
@@ -375,6 +381,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201707311327376_addFollowing.resx">
       <DependentUpon>201707311327376_addFollowing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201708031132206_addIsCancelledToGIg.resx">
+      <DependentUpon>201708031132206_addIsCancelledToGIg.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
