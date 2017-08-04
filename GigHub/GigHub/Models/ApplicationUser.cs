@@ -33,6 +33,11 @@ namespace GigHub.Models
             // Add custom user claims here
             return userIdentity;
         }
+
+        public void Notify(Notification notification)
+        {
+
+        }
     }
     
 }
