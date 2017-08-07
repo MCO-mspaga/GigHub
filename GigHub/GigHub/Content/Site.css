@@ -173,3 +173,11 @@ h6,
 .gigs > li:hover .actions {
     display: block;
 }
+
+.gigs > li .following .artist{
+            font-size: 25px;
+            font-weight: bold;
+            display: block;
+            padding: 6px 6px;
+
+        }

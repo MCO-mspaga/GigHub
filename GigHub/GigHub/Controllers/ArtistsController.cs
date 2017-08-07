@@ -28,13 +28,6 @@ namespace GigHub.Controllers
                 .Select(a => a.Followee)
                 .ToList();
 
-       /*     var viewModel = new ArtistViewModel
-            {
-                Artist = artists,
-                ShowActions = User.Identity.IsAuthenticated,
-                Heading = "Who I'm Following"
-            };*/
-
             return View(artists);
         }
     }
